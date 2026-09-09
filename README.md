@@ -7,6 +7,7 @@
   [![License: MIT](https://img.shields.io/badge/License-MIT-CCFF00.svg)](https://opensource.org/licenses/MIT)
   [![Platform: Web & Android](https://img.shields.io/badge/Platform-Web%20%26%20Android-00E5FF.svg)](#)
   [![Firebase: Active](https://img.shields.io/badge/Firebase-Realtime%20Database-FFCA28.svg)](https://firebase.google.com/)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/boudehbi-anouar)
   
   **"Connecting hearts, mobilizing care, and saving lives in real-time."**
 </div>
@@ -61,15 +62,29 @@ Qatra is built with a **Security-First** approach:
 ## 🌐 Connect With Us
 
 Stay updated with the latest news and donor success stories:
-* **Facebook**: [Qatra App Official](https://web.facebook.com/profile.php?id=61589092855136)
-* **Instagram**: [@qatra App](https://www.instagram.com/qatra_app)
 * **Official Website**: [qatra.web.app](https://qatra.web.app)
+* **LinkedIn**: [Anouar BOUDEHBI](https://www.linkedin.com/in/boudehbi-anouar)
+* **Facebook**: [Qatra App Official](https://web.facebook.com/profile.php?id=61589092855136)
+* **Instagram**: [@qatra_app](https://www.instagram.com/qatra_app)
 
 ---
 
-## 🤝 Contributors
+## 👨‍💻 Author & Lead Architect
 
-* **Anouar BOUDEHBI** - Founder, Lead Developer & UI/UX Designer
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://www.linkedin.com/in/boudehbi-anouar">
+        <img src="https://github.com/anouarboudehbi.png" width="100px;" alt="Anouar BOUDEHBI"/><br />
+        <sub><b>Anouar BOUDEHBI</b></sub>
+      </a><br />
+      <sub>Founder & CEO | Lead Architect & UI/UX Designer</sub><br />
+      <a href="https://www.linkedin.com/in/boudehbi-anouar">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 
